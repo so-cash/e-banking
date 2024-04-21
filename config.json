@@ -1,0 +1,5 @@
+{
+  "custodyApiUrl": "https://saturn-common.francecentral.cloudapp.azure.com/custody/",
+  "custodyApiUrl_local": "http://localhost:8081",
+  "web3NodeUrl": "wss://cacib-saturn-test.francecentral.cloudapp.azure.com:9443/"
+}
