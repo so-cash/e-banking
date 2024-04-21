@@ -2,7 +2,7 @@ console.log(
   "Resolving",
   window.location.href,
   window.location.pathname,
-  document.currentScript.src
+  document.currentScript.src,
 );
 
 const url = new URL(window.location.href);
